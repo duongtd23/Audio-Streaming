@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Audio Streaming</string>
+    <string name="phone_port">33333</string>
+    <string name="pc_ip">192.168.137.1</string>
+    <string name="pc_port">33334</string>
+</resources>
